@@ -55,7 +55,6 @@ menu:
       weight: 60
       
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
     # description: "这是一个纯粹的博客......"
     author: Sulv
     # author: ["Me", "You"] # multiple authors
