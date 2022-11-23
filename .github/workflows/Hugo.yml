@@ -28,8 +28,8 @@ jobs:
             - name: Deploy Web
               uses: peaceiris/actions-gh-pages@v3
               with:
-                  PERSONAL_TOKEN: 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
-                  EXTERNAL_REPOSITORY: https://github.com/Bubblegits/Bubblegits.github.io.git
+                  PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+                  EXTERNAL_REPOSITORY: Bubblegits/Bubblegits.github.io
                   PUBLISH_BRANCH: main
                   PUBLISH_DIR: ./public
                   commit_message: ${{ github.event.head_commit.message }}
