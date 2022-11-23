@@ -1,2 +1,2 @@
 ---
-title:new
+title: new
