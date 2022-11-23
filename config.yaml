@@ -43,7 +43,7 @@ menu:
       weight: 20
     - identifier: about
       name: 不着边际
-      url: 
+      url: post/poem
       weight: 50
     - identifier: tags
       name: 🔖标签
@@ -53,6 +53,7 @@ menu:
       name: 🤝友链
       url: links
       weight: 60
+      
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     # description: "这是一个纯粹的博客......"
