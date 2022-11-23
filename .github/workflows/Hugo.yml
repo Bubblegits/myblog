@@ -28,7 +28,7 @@ jobs:
             - name: Deploy Web
               uses: peaceiris/actions-gh-pages@v3
               with:
-                  PERSONAL_TOKEN: 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
+                  PERSONAL_TOKEN: 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
                   EXTERNAL_REPOSITORY: Bubblegits/Bubblegits.github.io
                   PUBLISH_BRANCH: main
                   PUBLISH_DIR: ./public
