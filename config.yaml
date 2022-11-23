@@ -1,5 +1,5 @@
 ---
-baseURL: http://example.org/
+baseURL: https://bubblegits.github.io/
 languageCode: en-us
 title: Sapere Aude!
 theme: PaperMod
@@ -22,14 +22,7 @@ languages:
       profileMode:
         enabled: true
         title: (〃'▽'〃)
-        subtitle: "🧨学而时习之，不亦说乎？有朋自远方来，不亦乐乎？<br/>👏🏼欢迎光临素履(Sulv)的博客<br/>👇联系方式"
-        buttons:
-          - name: 👨🏻‍💻技术
-            url: posts/tech
-          - name: 📕阅读
-            url: posts/read
-          - name: 🏖生活
-            url: posts/life         
+        subtitle: "小生书剑飘零，功名未成，游于四方。“
 menu:
   main:
     - identifier: search
@@ -37,25 +30,25 @@ menu:
       url: search
       weight: 1
     - identifier: home
-      name: 🏠主页
+      name: 主页
       url: /
       weight: 2
     - identifier: posts
-      name: 关于我
+      name: 想到就写
       url: post/bibiography
       weight: 3
     - identifier: essay
-      name: 想到就写
+      name: 胡言乱语
       url: post/essay
       weight: 20
+    - identifier: about
+      name: 不着边际
+      url: 
+      weight: 50
     - identifier: tags
       name: 🔖标签
       url: tags
       weight: 40
-    - identifier: about
-      name: 🙋🏻‍♂️关于
-      url: about
-      weight: 50
     - identifier: links
       name: 🤝友链
       url: links
@@ -88,13 +81,7 @@ params:
     
     socialIcons:
         - name: github
-          url: "https://github.com/xyming108"
-        - name: twitter
-          url:  "img/twitter.png"
-        - name: facebook
-          url: "https://www.facebook.com/profile.php?id=100027782410997"
-        - name: instagram
-          url: "img/instagram.png"
+          url: "https://github.com/bubblegits"
         - name: QQ
           url: "img/qq.png"
         - name: WeChat
