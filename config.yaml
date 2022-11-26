@@ -27,8 +27,8 @@ languages:
           series: series
         menu:
             main:
-                - name: 不着边际
-                  url: post/poem
+                - name: 巨人肩膀
+                  url: post/reading
                   weight: 1
                 - name: 想到就写
                   url: post/essay
@@ -88,14 +88,12 @@ params:
     homeInfoParams:
         Title: "欢迎！"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-            - Do give a 🌟 on Github !
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+                  这是留给我自己的一块地方，写一些自己想写的东西，之所以选择博客这种方式是因为希望我对自己写的内容有管理的自由。
+                  文字有的尽量理智，有的纯粹抒情，有的我自己也不知道什么意思。“相逢开口笑，过后不思量。”如是而已。
     socialIcons:
-        - name: github
+        - name: wechat
           url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
+        - name: qq
           url: "https://ko-fi.com/adityatelange"
         - name: Rss
           url: "index.xml"
