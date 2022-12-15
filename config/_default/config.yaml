@@ -74,8 +74,3 @@ services:
         disableInlineCSS: true
     twitter:
         disableInlineCSS: true
-
-frontmatter:
-  date:
-  - myDate
-  - :default
