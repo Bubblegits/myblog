@@ -33,8 +33,7 @@ profileMode:
 homeInfoParams:
     Title: "欢迎！"
     Content: >
-              这是留给我自己的一块地方，写一些自己想写的东西，之所以选择博客这种方式是因为希望我对自己写的内容有管理的自由。
-              文字有的尽量理智，有的纯粹抒情，有的我自己也不知道什么意思。“相逢开口笑，过后不思量。”如是而已。
+              垒起七星灶，铜壶煮三江，摆开八仙桌，招待十六方，来的都是客，全凭嘴一张，相逢开口笑，过后不思量。
 socialIcons:
     - name: wechat
       url: "https://github.com/adityatelange/hugo-PaperMod"
