@@ -160,6 +160,7 @@
 </noscript>
 
 {{- partial "extend_head.html" . -}}
+{{ partial "mathjax.html" . }}
 
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
