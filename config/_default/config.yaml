@@ -26,7 +26,7 @@ languages:
           series: series
         menu:
             main:
-                - name: 东读西读
+                - name: 走马观花
                   url: post/reading
                   weight: 1
                 - name: 胡思乱想
